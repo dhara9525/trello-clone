@@ -1,0 +1,32 @@
+[
+  {
+    "id": "board1",
+    "name": "My Board",
+    "lists": [
+      {
+        "id": "list1",
+        "name": "To Do",
+        "cards": [
+          {
+            "id": 1,
+            "name": "foo"
+          },
+          {
+            "id": 2,
+            "name": "bar"
+          }
+        ]
+      },
+      {
+        "id": "list2",
+        "name": "Doing",
+        "cards": []
+      },
+      {
+        "id": "list3",
+        "name": "Done",
+        "cards": []
+      }
+    ]
+  }
+]
